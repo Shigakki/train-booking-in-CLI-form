@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Files/main.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Files/order.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Files/stations.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Files/user.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Train.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/files.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/files.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/matchTransform.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ticket.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ticket.h" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/trainBooking.cpp" charset="GBK" />
+  </component>
+</project>

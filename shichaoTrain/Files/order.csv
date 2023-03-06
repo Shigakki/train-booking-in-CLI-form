@@ -1,0 +1,3 @@
+orderId,trainId,userId,seatId,ticketId,departureStation,targetStation,dStationName,tStationName,fare
+海克斯科技-GGBB8861,海克斯科技-GGBB886,A01,1,1,1,5,艾欧尼亚,暗影岛,50
+海克斯科技-GGBB8862,海克斯科技-GGBB886,B01,2,2,2,5,比尔吉沃特,暗影岛,40
